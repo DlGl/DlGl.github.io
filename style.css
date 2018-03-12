@@ -1,20 +1,17 @@
 body{    
 margin: 0px;
-    padding: 0px;}
+    padding: 0px;
+}
 #logo{
-
 	width:150px;
 }
-div#left {
-    width: 16%;
-    display: inline-block;
-    min-height: 1px;
-}
+
 
 #right{
 width: 80%;
     display: inline-block;
-    min-height: 1px;}
+    min-height: 1px;
+}
 
 div#left {
     width: 11%;
