@@ -1,1 +1,1 @@
-# DlGl.github.io
+# digi.github.io
