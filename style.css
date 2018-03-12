@@ -1,0 +1,22 @@
+body{    
+margin: 0px;
+    padding: 0px;}
+
+div#left {
+    width: 16%;
+    display: inline-block;
+    min-height: 1px;
+}
+
+#right{
+width: 80%;
+    display: inline-block;
+    min-height: 1px;}
+
+div#left {
+    width: 11%;
+    display: inline-block;
+    padding: 2%;
+    height: 100vh;
+    border-right: 1px solid #000;
+}
