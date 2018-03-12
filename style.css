@@ -1,7 +1,10 @@
 body{    
 margin: 0px;
     padding: 0px;}
+#logo{
 
+	width:150px;
+}
 div#left {
     width: 16%;
     display: inline-block;
